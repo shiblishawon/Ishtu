@@ -1,0 +1,17 @@
+{
+  "name": "Ishtu",
+  "version": "1.0.0",
+  "description": "Ishtu - Vue Nuxt Creative Agency Landing Page Template",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
